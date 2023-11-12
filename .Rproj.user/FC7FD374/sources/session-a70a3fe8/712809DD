@@ -1,0 +1,31 @@
+{
+    "id": "712809DD",
+    "path": "~/R projects/2nd_term_statistical_programming_projects/biostat777-intro-shu-luan/analysis.qmd",
+    "project_path": "analysis.qmd",
+    "type": "quarto_markdown",
+    "hash": "522307285",
+    "contents": "",
+    "dirty": false,
+    "created": 1699761096543.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "64:0",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1699761130,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1699761130281,
+    "read_only": false,
+    "read_only_alternatives": []
+}

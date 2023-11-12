@@ -1,0 +1,67 @@
+{
+    "sources": [
+        {
+            "URL": "https://en.wikipedia.org/wiki/List_of_Roman_emperors",
+            "author": [
+                {
+                    "family": "Contributors",
+                    "given": "Wikipedia"
+                }
+            ],
+            "id": "wikipediacontributors_2019_list",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        6
+                    ]
+                ]
+            },
+            "publisher": "Wikipedia; Wikimedia Foundation",
+            "title": "List of roman emperors",
+            "type": ""
+        },
+        {
+            "URL": "https://github.com/thebioengineer/tidytuesdayR",
+            "author": [
+                {
+                    "family": "Hughes",
+                    "given": "Ellis"
+                }
+            ],
+            "id": "tidytuesday",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "R package version 1.0.1.9000",
+            "title": "tidytuesdayR: Access the weekly ’TidyTuesday’ project dataset",
+            "title-short": "tidytuesdayR",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Heath",
+                    "given": "Sebsatian"
+                }
+            ],
+            "id": "cawd",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "R package version 0.0.0.1000",
+            "title": "Cawd: Collected ancient world data",
+            "title-short": "Cawd",
+            "type": "book"
+        }
+    ],
+    "project_biblios": []
+}
